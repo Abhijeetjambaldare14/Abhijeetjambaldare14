@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Azure DevOps projects, using tools like Docker, Kubernetes(AKS) , Terraform. And Azure Cloud**
 
-- 🌱 I’m currently learning **DevSecOps and DevOps on AWS**
+- 🌱 I’m currently learning **DevSecOps and DevOps on Azure**
 
 - 👯 I’m looking to collaborate on **exciting software projects using DevOps principles.**
 
-- 💬 Ask me about **DevOps / Flutter**
+- 💬 Ask me about **DevOps / Terraform**
 
 - 📫 How to reach me **abhijeetjambaldare@gmail.com**
 
